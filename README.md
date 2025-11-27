@@ -35,7 +35,7 @@ MediNotes Pro transforms raw consultation notes into professional medical summar
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/medinotes-pro.git
+   git clone https://github.com/Abhishekravindran/medinotes-pro.git
    cd medinotes-pro
    ```
 
@@ -176,7 +176,7 @@ Set these in your production environment:
 
 ## 📞 Support
 
-- **Email**: support@medinotes-pro.com
+- **Email**: abhishekravindran07@gmail.com
 - **Issues**: [GitHub Issues](https://github.com/yourusername/medinotes-pro/issues)
 
 ## 📜 License
@@ -201,4 +201,5 @@ This project is licensed under the GNU License - see the [LICENSE](LICENSE) file
 
 **LLMS for Healthcare Professionals**
 
-[demo](https://medicalsaas-pibq6t0af-abhisheks-projects-1afd169f.vercel.app/)[Contact Sales](mailto:abhishekravindran07@gmail.com)
+[demo](https://medicalsaas-pibq6t0af-abhisheks-projects-1afd169f.vercel.app/)  
+[Contact Sales](mailto:abhishekravindran07@gmail.com)
